@@ -54,4 +54,4 @@ Brake : | B Button | S
 Steering : | Left ThumbStick | QD
 Pause : | Start |
 
-<img src="wildrun_banniere_1920px-1080px.jpg" width="500" align="center">
+<img src="wildrun_banniere_1920px-1080px_02" width="500" align="center">
